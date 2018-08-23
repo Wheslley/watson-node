@@ -1,6 +1,6 @@
 # Watson-Node
 
-Realizar o comando npm install --save para instalar as dependências listadas abaixo:
+Integrador em Node.js com o Watson (IBM)
 
 ## Dependências
 
